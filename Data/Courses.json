@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "name": "Ethical Hacking",
+      "img": "https://i.postimg.cc/R0dW1Lrp/01.webp",
+      "student": "1253",
+      "description": "Ethical hacking is the practice of penetrating computer systems and networks to find security vulnerabilities that a malicious hacker could potentially exploit. Ethical hackers are often employed by companies to test their own security systems, but they can also be hired by companies to test the security of their competitors' systems.",
+      "instructor": " Prof. Kunal Kushwaha",
+      "rating": " 4.5"
+    },
+    {
+      "id": "2",
+      "name": "Python",
+      "img": "https://i.postimg.cc/GtxG48Pv/02.webp",
+      "student": "1524",
+      "description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.",
+      "instructor": "Prof. Zaid Sabih",
+      "rating": " 4.7"
+    },
+    {
+      "id": "3",
+      "name": "Machine Learning",
+      "img": "https://i.postimg.cc/PJBST84h/03.webp",
+      "student": "945",
+      "description": "Machine learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as 'training data', in order to make predictions or decisions without being explicitly programmed to do so.",
+      "instructor": " Prof. Ermin Kreponic",
+      "rating": " 4.2"
+    },
+    {
+      "id": "4",
+      "name": "Web Development",
+      "img": "https://i.postimg.cc/QdXfs5Gg/04.webp",
+      "student": "2432",
+      "description": " Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing the simplest static single page of plain text to the most complex web-based internet applications, electronic businesses, and social network services.",
+      "instructor": " Prof. Aldin Omerdic",
+      "rating": " 4.9"
+    },
+    {
+      "id": "5",
+      "name": "Android Development",
+      "img": "https://i.postimg.cc/TP22rk8y/05.webp",
+      "student": "1231",
+      "description": " Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets.",
+      "instructor": " Prof. John Maina M.",
+      "rating": " 4.8"
+    },
+    {
+      "id": "6",
+      "name": "Data Science",
+      "img": "https://i.postimg.cc/BnKHrnt5/06.webp",
+      "student": "894",
+      "description": " Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data.",
+      "instructor": " Prof. Thamsanqa M.",
+      "rating": " 4.7"
+    },
+    {
+      "id": "7",
+      "name": "Linux Administration",
+      "img": "https://i.postimg.cc/WpZQ9MwX/07.webp",
+      "student": "643",
+      "description": " Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution.",
+      "instructor": " Prof. Nikunj Krishna R.",
+      "rating": " 4.5"
+    },
+    {
+      "id": "8",
+      "name": "DevOps",
+      "img": "https://i.postimg.cc/wTBHww0L/08.webp",
+      "student": "986",
+      "description": " DevOps is a set of practices that combines software development (Dev) and information-technology operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.",
+      "instructor": " Prof. Anil Kumar",
+      "rating": " 4.3"
+    },
+    {
+      "id": "9",
+      "name": "Amazon AWS",
+      "img": "https://i.postimg.cc/G20GQ8RT/09.webp",
+      "student": "793",
+      "description": " Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. These cloud computing web services provide a variety of basic abstract technical infrastructure and distributed computing building blocks and tools.",
+      "instructor": " Prof. Kunal Kushwaha",
+      "rating": " 4.4"
+    }
+  ]
+  
